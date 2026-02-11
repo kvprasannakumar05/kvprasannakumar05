@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prasanna Kumar </h1>
+<h1 align="center">Hi, I'm Prasanna Kumar </h1>
 <h3 align="center">Pen Testing | AI/ML Enthusiast | CTF Player</h3>
 
 ---
 
-## 🔗 Connect with me
+##  Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/prasannakumarkv05/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
@@ -17,14 +17,14 @@
 </p>
 
 ---
-## 🧠 About Me
+##  About Me
 
 -  Active CTF player
 -  Currently learning Penetration Testing & Offensive Security
 -  Learning core AI concepts and fundamentals
 
 ---
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="left">
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvprasannakumar05&theme=github_dark)
 
