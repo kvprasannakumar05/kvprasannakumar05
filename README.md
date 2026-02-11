@@ -49,6 +49,7 @@
 <!-- Security & Networking -->
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/IDA-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Binary%20Ninja-1A1A1A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/radare2-9932CC?style=for-the-badge"/>
