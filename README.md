@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prasanna Kumar K V</h1>
-<h3 align="center">Pen Testing • AI/ML Enthusiast • CTF Player</h3>
+<h1 align="center">Hi 👋, I'm Prasanna Kumar </h1>
+<h3 align="center">Pen Testing | AI/ML Enthusiast | CTF Player</h3>
 
 ---
 
